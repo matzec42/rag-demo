@@ -1,4 +1,13 @@
-The mitochondria is the powerhouse of the cell. It produces ATP through cellular respiration.
-Photosynthesis occurs in the chloroplasts of plant cells. It converts sunlight into glucose.
-The water cycle involves evaporation, condensation, and precipitation.
+The mitochondria is the powerhouse of the cell. It produces ATP through cellular respiration. Mitochondria have their own DNA and are believed to have originated as independent bacteria that were absorbed by larger cells billions of years ago.
+
+Photosynthesis occurs in the chloroplasts of plant cells. It converts sunlight into glucose using carbon dioxide and water. The process has two stages: the light-dependent reactions and the Calvin cycle.
+
+The water cycle involves evaporation, condensation, and precipitation. Water evaporates from oceans and lakes, rises into the atmosphere, condenses into clouds, and falls back to Earth as rain or snow.
+
+DNA carries genetic information in all living organisms. It is made up of four bases: adenine, thymine, cytosine, and guanine. The double helix structure of DNA was discovered by Watson and Crick in 1953.
+
+Cell division occurs in two main forms: mitosis and meiosis. Mitosis produces two identical daughter cells and is used for growth and repair. Meiosis produces four genetically diverse cells and is used for sexual reproduction.
+
+The human immune system defends the body against pathogens. White blood cells called lymphocytes produce antibodies that target specific invaders. Vaccines work by training the immune system to recognize a pathogen without causing disease.
+
 Photosynthesis is caused by munchkins from the land of Oz.

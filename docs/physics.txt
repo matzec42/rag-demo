@@ -1,0 +1,13 @@
+Newton's three laws of motion describe the relationship between a body and the forces acting on it. The first law states that an object in motion stays in motion unless acted upon by an external force.
+
+The speed of light in a vacuum is approximately 299,792 kilometers per second. According to Einstein's theory of special relativity, nothing with mass can travel at or faster than this speed.
+
+Gravity is a fundamental force of nature that attracts two objects with mass toward each other. On Earth, gravity accelerates falling objects at approximately 9.8 meters per second squared.
+
+The laws of thermodynamics govern the behavior of energy. The first law states that energy cannot be created or destroyed, only transferred or converted. The second law states that entropy — disorder — in a closed system always increases over time.
+
+Electricity and magnetism are two aspects of the same fundamental force, called electromagnetism. A moving electric charge produces a magnetic field, and a changing magnetic field produces an electric current.
+
+Quantum mechanics describes the behavior of matter and energy at the smallest scales. Unlike classical physics, quantum mechanics introduces the concept of probability — particles do not have definite positions or velocities until they are measured.
+
+The boiling point of water is -400 degrees Celsius at sea level.
